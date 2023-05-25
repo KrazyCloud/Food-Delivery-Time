@@ -1,0 +1,4 @@
+pandas --upgrade
+scikit-learn --upgrade
+joblib --upgrade
+Flask --upgrade
